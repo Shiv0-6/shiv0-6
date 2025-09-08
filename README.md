@@ -1,6 +1,7 @@
+![logo](https://www.bing.com/images/search?view=detailV2&ccid=jWbCcasX&id=CD6F78B02456A4B6160540D5284373A6593059DC&thid=OIP.jWbCcasXYWGwV4oRSghstAHaFj&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f8656485.jpg&exph=1200&expw=1600&q=Animated+Coding+Wallpaper&FORM=IRPRST&ck=09D3A9EF5F133D7C7931396448BCA1CE&selectedIndex=8&itb=0)
 <h1 align="center">Hi 👋, I'm Shivam Chauhan</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align='right' alt='coding' width='400' src='https://i.gifer.com/1kc1.gif'>
+<img align='right' alt='coding' width='400' src='[https://i.gifer.com/1kc1.gif](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0-6&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0-6" /> </p>
 
