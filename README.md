@@ -1,11 +1,12 @@
-![logo](https://www.bing.com/images/search?view=detailV2&ccid=jWbCcasX&id=CD6F78B02456A4B6160540D5284373A6593059DC&thid=OIP.jWbCcasXYWGwV4oRSghstAHaFj&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f8656485.jpg&exph=1200&expw=1600&q=Animated+Coding+Wallpaper&FORM=IRPRST&ck=09D3A9EF5F133D7C7931396448BCA1CE&selectedIndex=8&itb=0)
+![logo](https://tse2.mm.bing.net/th/id/OIP.9XcahXOcJ5AOa4XYYvN4vgHaEK?r=0&cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3)
 <h1 align="center">Hi 👋, I'm Shivam Chauhan</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align='right' alt='coding' width='400' src='[https://i.gifer.com/1kc1.gif](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)'>
+<h3 align="center">A passionate web developer and game developer from India</h3>
+<img align='right' alt='coding' width='450' src='https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0-6&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0-6" /> </p>
 
 - 📫 How to reach me **csefw2306@glbitm.ac.in**
+- Software and Hardware
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
