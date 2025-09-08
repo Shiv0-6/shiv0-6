@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Chauhan</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img align='right' alt='coding' width='400' src='https://i.gifer.com/1kc1.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0-6&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0-6" /> </p>
 
