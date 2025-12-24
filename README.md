@@ -1,8 +1,3 @@
-# 🚀 Enhanced GitHub Profile README
-
-Here's a significantly upgraded version of your README:
-
-```markdown
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Game%20Developer%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
 
@@ -54,7 +49,7 @@ const shivam = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
@@ -99,7 +94,7 @@ const shivam = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiv0-6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
@@ -188,46 +183,3 @@ const shivam = {
 </p>
 
 <h3 align="center">⭐ Star my repositories if you find them helpful! ⭐</h3>
-```
-
----
-
-## ✨ **Key Enhancements Made:**
-
-| Feature | Description |
-|---------|-------------|
-| 🌊 **Animated Header/Footer** | Gradient wave banners |
-| ⌨️ **Typing Animation** | Dynamic text display |
-| 📊 **Better Stats Layout** | Side-by-side cards with matching theme |
-| 🏆 **GitHub Trophies** | Achievement showcase |
-| 🐍 **Contribution Snake** | Animated contribution graph |
-| 📁 **Collapsible Sections** | Organized tech stack |
-| 🎨 **Skill Icons** | Modern icon design |
-| 📈 **Activity Graph** | Visual contribution history |
-| 💬 **Dev Quotes** | Random programming quotes |
-| 🔗 **Badge-style Links** | Professional social links |
-
----
-
-## 🔧 **For Snake Animation Setup:**
-
-Add this GitHub Action to `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shiv0-6
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-```
