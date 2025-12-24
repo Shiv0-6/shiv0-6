@@ -1,24 +1,233 @@
-![logo](https://tse2.mm.bing.net/th/id/OIP.9XcahXOcJ5AOa4XYYvN4vgHaEK?r=0&cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3)
-<h1 align="center">Hi 👋, I'm Shivam Chauhan</h1>
-<h3 align="center">A passionate web developer and game developer from India</h3>
-<img align='right' alt='coding' width='450' src='https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966'>
+# 🚀 Enhanced GitHub Profile README
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0-6&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0-6" /> </p>
+Here's a significantly upgraded version of your README:
 
-- 📫 How to reach me **csefw2306@glbitm.ac.in**
-- Software and Hardware
+```markdown
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Game%20Developer%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam2306" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shiv06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiv06" height="30" width="40" /></a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/shiv0-6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Passionate+Web+%26+Game+Developer+%F0%9F%8E%AE;Building+Dreams+with+Code+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiv0-6&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/shiv0-6?tab=followers">
+    <img src="https://img.shields.io/github/followers/shiv0-6?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/shiv0-6">
+    <img src="https://img.shields.io/github/stars/shiv0-6?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv0-6&show_icons=true&locale=en&layout=compact" alt="shiv0-6" /></p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0-6&show_icons=true&locale=en" alt="shiv0-6" /></p>
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv0-6&" alt="shiv0-6" /></p>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> **About Me**
+
+```javascript
+const shivam = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    currentFocus: "Web & Game Development",
+    education: "GL Bajaj Institute of Technology",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+- 🔭 Currently working on **exciting web & game projects**
+- 🌱 Learning **Advanced React, Three.js & Unreal Engine**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Dev, Game Dev, DSA**
+- 📫 Reach me at **csefw2306@glbitm.ac.in**
+- ⚡ Fun fact: **I turn coffee into code! ☕→💻**
+
+<br clear="both">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,java,cpp,c" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎮 Game Dev & Design</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,blender,figma,ps" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pytorch,opencv" />
+</p>
+</details>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiv0-6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv0-6&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv0-6&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiv0-6&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 **Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivam2306" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/shiv06" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:csefw2306@glbitm.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/shiv0-6" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 **Dev Quote**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<!-- Spotify Now Playing (Optional - needs setup) -->
+<!--
+## 🎧 **Spotify Playing**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify" />
+</p>
+-->
+
+<!-- Support Section -->
+## ☕ **Support My Work**
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shivamchauhan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</p>
+
+<h3 align="center">⭐ Star my repositories if you find them helpful! ⭐</h3>
+```
+
+---
+
+## ✨ **Key Enhancements Made:**
+
+| Feature | Description |
+|---------|-------------|
+| 🌊 **Animated Header/Footer** | Gradient wave banners |
+| ⌨️ **Typing Animation** | Dynamic text display |
+| 📊 **Better Stats Layout** | Side-by-side cards with matching theme |
+| 🏆 **GitHub Trophies** | Achievement showcase |
+| 🐍 **Contribution Snake** | Animated contribution graph |
+| 📁 **Collapsible Sections** | Organized tech stack |
+| 🎨 **Skill Icons** | Modern icon design |
+| 📈 **Activity Graph** | Visual contribution history |
+| 💬 **Dev Quotes** | Random programming quotes |
+| 🔗 **Badge-style Links** | Professional social links |
+
+---
+
+## 🔧 **For Snake Animation Setup:**
+
+Add this GitHub Action to `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shiv0-6
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+```
