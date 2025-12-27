@@ -170,7 +170,7 @@ const shivam = {
 ## ☕ **Support My Work**
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/shivamchauhan" target="_blank">
+  <a href="https://www.buymeacoffee.com/shiv06" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
   </a>
 </p>
