@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/shiv0-6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Passionate+Web+%26+Game+Developer+%F0%9F%8E%AE;Building+Dreams+with+Code+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Passionate+Web+%26+App Developer+Game+Developer+%F0%9F%8E%AE;Building+Dreams+with+Code+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
