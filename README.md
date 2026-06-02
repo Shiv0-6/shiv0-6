@@ -41,7 +41,7 @@ const shivam = {
 - 🌱 Learning **Advanced React, Three.js & Unreal Engine**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Dev, Game Dev, DSA**
-- 📫 Reach me at **csefw2306@glbitm.ac.in**
+- 📫 Reach me at **chauhanshivam990@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code! ☕→💻**
 
 <br clear="both">
