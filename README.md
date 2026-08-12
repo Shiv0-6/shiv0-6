@@ -31,7 +31,7 @@
 const shivam = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
-    currentFocus: "Web & Game Development",
+    currentFocus: "Software Engineer & Game Developer",
     education: "GL Bajaj Institute of Technology",
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
